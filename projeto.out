@@ -1,0 +1,91 @@
+SIMAN Run Controller.
+
+24.0 Hours>
+                                      ARENA Simulation Results
+                            guihenriludwig@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date :11/ 4/2022
+Analyst: Rockwell Automation                                         Model revision date:11/ 4/2022
+
+Replication ended at time      : 24.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tempo Entre Chegadas                            --         --         --         --          0
+Ripa.VATime                                 7.4541     (Insuf)    7.4541     7.4541         10    
+Ripa.NVATime                                .00000     (Insuf)    .00000     .00000         10    
+Ripa.WaitTime                               4.5000     (Insuf)    .00000     9.0000         10    
+Ripa.TranTime                               .00000     (Insuf)    .00000     .00000         10    
+Ripa.OtherTime                              .00000     (Insuf)    .00000     .00000         10    
+Ripa.TotalTime                              11.954     (Insuf)    7.4541     16.454         10    
+Corredica.VATime                            7.4541     (Insuf)    7.4541     7.4541         10    
+Corredica.NVATime                           .00000     (Insuf)    .00000     .00000         10    
+Corredica.WaitTime                          4.5000     (Insuf)    .00000     9.0000         10    
+Corredica.TranTime                          .00000     (Insuf)    .00000     .00000         10    
+Corredica.OtherTime                         .00000     (Insuf)    .00000     .00000         10    
+Corredica.TotalTime                         11.954     (Insuf)    7.4541     16.454         10    
+Pes.VATime                                  7.4541     (Insuf)    7.4541     7.4541         10    
+Pes.NVATime                                 .00000     (Insuf)    .00000     .00000         10    
+Pes.WaitTime                                4.5000     (Insuf)    .00000     9.0000         10    
+Pes.TranTime                                .00000     (Insuf)    .00000     .00000         10    
+Pes.OtherTime                               .00000     (Insuf)    .00000     .00000         10    
+Pes.TotalTime                               11.954     (Insuf)    7.4541     16.454         10    
+PlacaMDF.VATime                             7.4541     (Insuf)    7.4541     7.4541         10    
+PlacaMDF.NVATime                            .00000     (Insuf)    .00000     .00000         10    
+PlacaMDF.WaitTime                           4.5000     (Insuf)    .00000     9.0000         10    
+PlacaMDF.TranTime                           .00000     (Insuf)    .00000     .00000         10    
+PlacaMDF.OtherTime                          .00000     (Insuf)    .00000     .00000         10    
+PlacaMDF.TotalTime                          11.954     (Insuf)    7.4541     16.454         10    
+Puxador.VATime                              7.4541     (Insuf)    7.4541     7.4541         10    
+Puxador.NVATime                             .00000     (Insuf)    .00000     .00000         10    
+Puxador.WaitTime                            4.5000     (Insuf)    .00000     9.0000         10    
+Puxador.TranTime                            .00000     (Insuf)    .00000     .00000         10    
+Puxador.OtherTime                           .00000     (Insuf)    .00000     .00000         10    
+Puxador.TotalTime                           11.954     (Insuf)    7.4541     16.454         10    
+Recurso Fornecedor.Queue.WaitingTime        .00000     (Insuf)    .00000     .00000          2    
+CriaLoteFornecedor.Queue.WaitingTime        4.5000     (Insuf)    .00000     9.0000        100    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Ripa.WIP                                    9.3559     (Insuf)    .00000     17.000     15.000    
+Corredica.WIP                               9.3559     (Insuf)    .00000     17.000     15.000    
+Pes.WIP                                     9.3559     (Insuf)    .00000     17.000     15.000    
+PlacaMDF.WIP                                9.3559     (Insuf)    .00000     17.000     15.000    
+Puxador.WIP                                 9.8748     (Insuf)    .00000     18.000     15.000    
+RecursoFornecedor.NumberBusy                .51892     (Insuf)    .00000     1.0000     1.0000    
+RecursoFornecedor.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+RecursoFornecedor.Utilization               .51892     (Insuf)    .00000     1.0000     1.0000    
+Recurso Fornecedor.Queue.NumberInQueue      .00000     (Insuf)    .00000     .00000     .00000    
+CriaLoteFornecedor.Queue.NumberInQueue      20.833     (Insuf)    .00000     50.000     24.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Ripa.NumberIn                               25.000    
+Ripa.NumberOut                              10.000    
+Corredica.NumberIn                          25.000    
+Corredica.NumberOut                         10.000    
+Pes.NumberIn                                25.000    
+Pes.NumberOut                               10.000    
+PlacaMDF.NumberIn                           25.000    
+PlacaMDF.NumberOut                          10.000    
+Puxador.NumberIn                            26.000    
+Puxador.NumberOut                           11.000    
+RecursoFornecedor.NumberSeized              2.0000    
+RecursoFornecedor.ScheduledUtilization      .51892    
+System.NumberOut                            50.000    
+
+
+Simulation run time: 0.18 minutes.
+Simulation run complete.

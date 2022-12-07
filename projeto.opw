@@ -1,0 +1,19 @@
+[RESOURCES]
+RecursoFornecedor
+[VARIABLES]
+Cria ripas.NumberOut
+CriaLoteFornecedor.NumberOut
+Debugger.NumberOut
+Dispose ripa.NumberOut
+Dispose pes.NumberOut
+Cria Corredicas.NumberOut
+Separa carga fornecedor.NumberOut Orig
+Recurso Fornecedor.NumberOut
+LoteFornecedor
+Cria puxador.NumberOut
+Dispose MDF.NumberOut
+Dispose puxador.NumberOut
+CriaPlacaMDF.NumberOut
+Cria Pes.NumberOut
+Dispose corredica.NumberOut
+Recurso Fornecedor.NumberIn

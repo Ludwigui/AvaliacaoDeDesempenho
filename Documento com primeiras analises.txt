@@ -1,0 +1,16 @@
+Custo ocioso geral do sistema tem um custo proporcionalmente alto frente aos demais.
+Idle cost: Saltam os olhos os recursos 
+-CameraUV
+-CentroUsinagem
+-Estufa
+-FuncionarioNQ_MM
+-SerraDestopadeira
+Claro que há mais recursos para se analisar, mas eu começaria por aqui.
+Ainda, percebi que o serviço de manutenção tem um custo elevado frente
+aos demais (no geral 2x mais). Como diminuir isso?
+
+Não temos parcela significativa de produtos atrasados (desde o pedido até a entrega final).
+CameraPintura também possui um busyCost elevado, assim como:
+-CentroUsinagem
+-Estufa
+-FuncionarioQ_MM
